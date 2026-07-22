@@ -9,7 +9,7 @@
      const process = (d) => d.filter(x => x.v > 0).map(x => ({...x, v: x.v * 1.2})).reduce((a, c) => a + c.v, 0);
      ```
 2. **Open Copilot Chat:**
-   * Click the Chat icon in the Activity Bar (left side) or press `Ctrl+Cmd+I`.
+   * Click the Chat icon in the Activity Bar (left side) or press `Ctrl+I`.
 3. **Ask for an Explanation:**
    * Highlight the code in `legacy.js`.
    * In the Chat input, type: `/explain What is this function doing step by step?`
