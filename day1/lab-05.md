@@ -5,8 +5,7 @@
 ### Step-by-Step Instructions:
 1. **Install the Extensions:**
    * Open the VS Code Extensions view (`Ctrl+Shift+X`).
-   * Search for "GitHub Copilot" and install it.
-   * Search for "GitHub Copilot Chat" and install it.
+   * Search for "GitHub Copilot Chat" and make sure it is installed.
 2. **Authenticate Copilot:**
    * A prompt should appear in the bottom right asking you to sign in to GitHub. Click it and follow the browser prompts.
 3. **Configure Settings:**
